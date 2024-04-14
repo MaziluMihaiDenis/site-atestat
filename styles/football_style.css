@@ -1,0 +1,24 @@
+body
+{
+    background: linear-gradient(
+        90deg, rgba(0,0,0,1) 0%, rgba(40,105,60,1) 
+        35%, rgba(16,125,54,1) 42%, rgba(20,112,21,1) 100%
+    );
+}
+.page-text-hightlight
+{
+    color: rgba(19, 166, 20, 0.8);
+    background: linear-gradient(
+        90deg, rgba(0,0,0,1) 0%, rgba(40,105,60,1) 
+        35%, rgba(16,125,54,1) 42%, rgba(20,112,21,1) 100%
+    );
+    text-shadow: 5px 5px 2px black;
+}
+.stire-principala
+{
+    border-color: rgba(19, 166, 20, 0.8);
+}
+.stire
+{
+    border-color: rgba(19, 166, 20, 0.8);
+}

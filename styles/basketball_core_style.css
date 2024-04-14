@@ -1,0 +1,8 @@
+header
+{
+    background: linear-gradient(
+        90deg, 
+      rgb(44, 19, 2) 0%, rgb(144, 70, 9) 24%, rgb(200, 93, 0)
+        59%, rgb(200, 110, 20) 70%, rgb(207, 81, 8) 100%
+    );
+}

@@ -1,0 +1,20 @@
+body
+{
+    background: linear-gradient(
+        90deg, 
+      rgba(57,25,4,1) 0%, rgba(175,85,12,1) 24%, rgba(251,118,0,1) 
+        59%, rgba(246,134,25,1) 70%, rgba(242,95,9,1) 100%
+    );
+}
+.content
+{
+    background-color: white;
+}
+.stire-principala
+{
+    border-color: #dc740ccc;
+}
+.stire
+{
+    border-color: #dc740ccc;
+}

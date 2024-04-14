@@ -1,0 +1,24 @@
+header
+{
+    background: linear-gradient(
+        90deg, 
+      rgba(2,0,36,1) 0%, 
+      rgba(9,9,121,1) 42%, rgba(0,212,255,1) 100%
+    );
+}
+.page-text-hightlight
+{
+    background: linear-gradient(
+        90deg, 
+      rgba(2,0,36,1) 0%, 
+      rgba(9,9,121,1) 42%, rgba(0,212,255,1) 100%
+    );
+}
+.page-image
+{
+    border: 2px solid #2E46C0;
+}
+.page-video
+{
+    border: 2px solid #2E46C0;
+}

@@ -1,0 +1,30 @@
+.page-text-hightlight
+{
+    position: relative;
+    right: 50px;
+    top: 50px;
+    height: fit-content;
+    width: 105%;
+    line-height: 100px;
+    text-align: center;
+    font-family: "Luckiest Guy", cursive;
+    font-size: 70;
+    word-spacing: 1px;
+}
+.stire
+{
+    border: 2px solid;
+    width: 800px;
+    height: 500px;
+}
+li
+{
+    list-style-type:none;
+}
+ul
+{
+    position: relative;
+    top: 50px;
+    word-spacing: 200px;
+    line-height: 200px;
+}

@@ -1,0 +1,27 @@
+body
+{
+    background: linear-gradient(
+        90deg, rgba(2,54,2,1) 0%, 
+    rgba(27,186,15,1) 16%, 
+    rgba(27,186,15,1) 70%, 
+    rgba(17,99,11,1) 86%
+    );
+}
+.page-text-hightlight
+{
+    color: rgba(19, 166, 20, 0.8);
+    background: linear-gradient(
+        90deg, 
+      rgba(30,181,22,1) 0%, rgba(30,181,22,1) 7%, rgba(30,181,22,1) 20%, 
+      rgba(31,213,37,1) 54%, rgba(32,209,23,1) 62%, rgba(31,162,2,1) 100%
+    );
+    text-shadow: 5px 5px 2px black;
+}
+.stire-principala
+{
+    border-color: rgba(19, 166, 20, 0.8);
+}
+.stire
+{
+    border-color: rgba(19, 166, 20, 0.8);
+}
